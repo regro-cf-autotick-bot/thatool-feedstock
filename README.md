@@ -9,7 +9,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/thatool-feedsto
 
 Summary: This package contains several in-house codes to handle some specific tasks. This package is developed and maintained by @thangckt
 
-Documentation: https://thangckt.github.io/doc/doc1_ThangTool/
+Documentation: https://thangckt.github.io/thatool/
 
 Current build status
 ====================
